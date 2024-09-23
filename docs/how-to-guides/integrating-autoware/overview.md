@@ -24,7 +24,7 @@ git clone https://github.com/YOUR_NAME/autoware.git
 
 If you set up multiple types of vehicles, adding a suffix like "autoware.vehicle_A" or "autoware.vehicle_B" is recommended.
 
-## 2. Creating the your vehicle and sensor description
+## 2. Creating your vehicle and sensor description
 
 Next, you need to create description packages that define the vehicle and sensor configuration of your vehicle.
 
